@@ -21,5 +21,15 @@
         ]
       }
     ]
+  },
+  "initialRoute": "bienvenue",
+  "seo": {
+    "sitemap:enabled": false,
+    "llms-txt:enabled": false,
+    "robots:index": false,
+    "robots:follow": false
+  },
+  "ai": {
+    "ai-assistant:enabled": false
   }
 }
