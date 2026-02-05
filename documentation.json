@@ -15,8 +15,8 @@
         "icon": "languages",
         "pages": [
           {
-            "title": "Ajoutez Ascend",
-            "path": "invite-ascend"
+            "title": "Bienvenue",
+            "path": "bienvenue"
           }
         ]
       }
